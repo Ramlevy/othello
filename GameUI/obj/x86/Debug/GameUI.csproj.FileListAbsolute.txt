@@ -1,0 +1,9 @@
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameUI\bin\Debug\GameUI.exe
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameUI\bin\Debug\GameUI.pdb
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameUI\bin\Debug\GameLogics.dll
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameUI\bin\Debug\GameLogics.pdb
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameUI\obj\x86\Debug\GameUI.csprojResolveAssemblyReference.cache
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameUI\obj\x86\Debug\GameUI.csproj.CoreCompileInputs.cache
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameUI\obj\x86\Debug\GameUI.csproj.CopyComplete
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameUI\obj\x86\Debug\GameUI.exe
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameUI\obj\x86\Debug\GameUI.pdb

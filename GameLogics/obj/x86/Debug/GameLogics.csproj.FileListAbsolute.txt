@@ -1,0 +1,6 @@
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameLogics\bin\Debug\GameLogics.dll
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameLogics\bin\Debug\GameLogics.pdb
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameLogics\obj\x86\Debug\GameLogics.csprojResolveAssemblyReference.cache
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameLogics\obj\x86\Debug\GameLogics.csproj.CoreCompileInputs.cache
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameLogics\obj\x86\Debug\GameLogics.dll
+C:\Users\Ram\Desktop\B15 Ex05 MorShitrit 313178303 RamLevy 312526288\GameLogics\obj\x86\Debug\GameLogics.pdb
